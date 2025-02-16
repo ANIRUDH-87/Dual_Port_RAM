@@ -1,7 +1,8 @@
 # 🔄 Dual-Port RAM using SystemVerilog  
 
 ## 📄 Dual-Port RAM Report  
-[📥 Download Full Report (PDF)](Dual_Port_RAM.pdf)
+[📥 Download Full Report (PDF)](Dual-Port%20ram.pdf)
+
 
 
 ## 📌 Project Overview  
